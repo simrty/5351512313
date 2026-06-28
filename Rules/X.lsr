@@ -1,0 +1,8 @@
+# UpdateTime: 2026-06-28 22:51:17
+# RuleCount: 6
+DOMAIN, app-analytics-services.com
+DOMAIN, amp-api-edge.apps.apple.com
+DOMAIN, firebase-settings.crashlytics.com
+DOMAIN, github.githubassets.com
+DOMAIN-SUFFIX, googleapis.com
+DOMAIN-SUFFIX, g.doubleclick.net

@@ -1,0 +1,12 @@
+# UpdateTime: 2026-06-28 22:51:17
+# RuleCount: 10
+DOMAIN, inappcheck.itunes.apple.com
+DOMAIN, 096e6294e3f76f3c-b154ee1f29450e177e9d0993b5cddefa.jomoxc.com
+DOMAIN, m.pinduoduo.net
+DOMAIN-SUFFIX, pddpic.com
+DOMAIN-SUFFIX, pinduoduo.com
+IP-CIDR, 101.35.212.35/32, no-resolve
+IP-CIDR, 114.110.97.97/32, no-resolve
+IP-CIDR6, 2402:4e00:1411:601:0:9984:c4d1:fcf9/128, no-resolve
+IP-CIDR6, 2402:4e00:1411:601:0:99a0:a53f:9523/128, no-resolve
+IP-CIDR6, 240c:409f::3:0:2d7/128, no-resolve

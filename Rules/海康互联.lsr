@@ -1,0 +1,17 @@
+# UpdateTime: 2026-06-28 22:51:17
+# RuleCount: 15
+DOMAIN, wapmail.10086.cn
+DOMAIN, ali.wosms.cn
+DOMAIN, enrichgw.10010.com
+DOMAIN, dypnsapi.aliyuncs.com
+DOMAIN, b-gtc.gepush.com
+DOMAIN, sdk.open.talk.getui.com
+DOMAIN, file.hikmall.com
+DOMAIN, yumao.puata.info
+DOMAIN-SUFFIX, getui.com
+DOMAIN-SUFFIX, hikiot.com
+DOMAIN-SUFFIX, taobao.com
+DOMAIN-SUFFIX, umeng.com
+DOMAIN-SUFFIX, ys7.com
+DOMAIN-SUFFIX, getui.net
+IP-CIDR, 115.238.23.46/31, no-resolve

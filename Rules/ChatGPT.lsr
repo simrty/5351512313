@@ -1,0 +1,9 @@
+# UpdateTime: 2026-06-28 22:51:17
+# RuleCount: 7
+DOMAIN, amp-api-edge.apps.apple.com
+DOMAIN, ab.chatgpt.com
+DOMAIN, www.google.com
+DOMAIN, ios.chat.openai.com
+DOMAIN, api.revenuecat.com
+DOMAIN, o33249.ingest.us.sentry.io
+DOMAIN-SUFFIX, gstatic.com

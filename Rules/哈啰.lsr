@@ -1,0 +1,6 @@
+# UpdateTime: 2026-06-28 22:51:17
+# RuleCount: 4
+IP-CIDR, 113.46.193.21/32, no-resolve
+IP-CIDR, 119.3.253.130/32, no-resolve
+IP-CIDR, 120.46.131.222/32, no-resolve
+IP-CIDR, 124.70.220.123/32, no-resolve

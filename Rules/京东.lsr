@@ -1,0 +1,10 @@
+# UpdateTime: 2026-06-28 22:51:17
+# RuleCount: 8
+DOMAIN, color.imdada.cn
+DOMAIN, mzstorekit.itunes.apple.com
+DOMAIN, aks.jdpay.com
+DOMAIN-SUFFIX, 360buyimg.com
+DOMAIN-SUFFIX, globalsign.com
+DOMAIN-SUFFIX, jd.com
+IP-CIDR6, 2402:db40:5100:1011::5/128, no-resolve
+IP-CIDR6, 2409:8c00:2461:b::35/128, no-resolve

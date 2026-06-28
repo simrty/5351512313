@@ -1,0 +1,108 @@
+# UpdateTime: 2026-06-28 22:51:17
+# RuleCount: 106
+DOMAIN, alloyteam-cdn.cdn-go.cn
+DOMAIN, gtimg.wechatpay.cn
+DOMAIN, magicactivity.oss-cn-hangzhou.aliyuncs.com
+DOMAIN, amp-api-edge.apps.apple.com
+DOMAIN, inappcheck.itunes.apple.com
+DOMAIN, p0.map.gtimg.com
+DOMAIN, docs-personalized-fonts-1251316161.file.myqcloud.com
+DOMAIN, data.ab.qq.com
+DOMAIN, otheve.beacon.qq.com
+DOMAIN, oth.str.beacon.qq.com
+DOMAIN, ue.indoorloc.map.qq.com
+DOMAIN, wxapp.tc.qq.com
+DOMAIN, res.wx.qq.com
+DOMAIN, galileotelemetry.tencent.com
+DOMAIN, file.variflight.com
+DOMAIN, badjs.weixinbridge.com
+DOMAIN-SUFFIX, 17u.cn
+DOMAIN-SUFFIX, 40017.cn
+DOMAIN-SUFFIX, qlogo.cn
+DOMAIN-SUFFIX, qpic.cn
+DOMAIN-SUFFIX, 17usoft.com
+DOMAIN-SUFFIX, ccb.com
+DOMAIN-SUFFIX, elongstatic.com
+DOMAIN-SUFFIX, gtimg.com
+DOMAIN-SUFFIX, idqqimg.com
+DOMAIN-SUFFIX, qq.com
+DOMAIN-SUFFIX, wechat.com
+DOMAIN-SUFFIX, docs.qq.com
+DOMAIN-SUFFIX, map.qq.com
+DOMAIN-SUFFIX, weixin.qq.com
+DOMAIN-SUFFIX, wxs.qq.com
+IP-CIDR, 36.151.205.125/32, no-resolve
+IP-CIDR, 36.151.205.132/32, no-resolve
+IP-CIDR, 117.185.24.151/32, no-resolve
+IP-CIDR, 140.207.122.156/32, no-resolve
+IP-CIDR, 140.207.122.189/32, no-resolve
+IP-CIDR6, 2408:8719:40e:11:3e::a/128, no-resolve
+IP-CIDR6, 2408:8719:40e:11:3e::d/128, no-resolve
+IP-CIDR6, 2408:8719:40e:11:3e::e/128, no-resolve
+IP-CIDR6, 2408:873c:3012:20::1d/128, no-resolve
+IP-CIDR6, 2408:873c:3012:24::28/128, no-resolve
+IP-CIDR6, 2408:873c:4012::16/128, no-resolve
+IP-CIDR6, 2408:873c:4012:1::11/128, no-resolve
+IP-CIDR6, 2408:873c:4012:1::12/128, no-resolve
+IP-CIDR6, 2408:873c:4012:2::11/128, no-resolve
+IP-CIDR6, 2408:873c:4012:2::15/128, no-resolve
+IP-CIDR6, 2408:873c:4012:3::11/128, no-resolve
+IP-CIDR6, 2408:873c:4012:3::13/128, no-resolve
+IP-CIDR6, 2408:873c:4012:4::11/128, no-resolve
+IP-CIDR6, 2408:873c:4012:5::12/128, no-resolve
+IP-CIDR6, 2408:873c:4012:5::15/128, no-resolve
+IP-CIDR6, 2408:873c:4012:7::14/128, no-resolve
+IP-CIDR6, 2408:873c:4012:7::43/128, no-resolve
+IP-CIDR6, 2408:873c:4012:a::16/128, no-resolve
+IP-CIDR6, 2408:873c:4012:b::12/128, no-resolve
+IP-CIDR6, 2408:873c:4012:b::14/128, no-resolve
+IP-CIDR6, 2408:873c:4012:c::12/128, no-resolve
+IP-CIDR6, 2408:873c:4012:d::13/128, no-resolve
+IP-CIDR6, 2408:873c:4012:e::16/128, no-resolve
+IP-CIDR6, 2408:873c:4012:e::3d/128, no-resolve
+IP-CIDR6, 2408:873c:4012:10::11/128, no-resolve
+IP-CIDR6, 2408:873c:4012:14::14/128, no-resolve
+IP-CIDR6, 2408:873c:5811:13::32/128, no-resolve
+IP-CIDR6, 2408:873c:5811:19::3b/128, no-resolve
+IP-CIDR6, 2408:8740:71fe:73::13/128, no-resolve
+IP-CIDR6, 2408:8740:71fe:78::12/128, no-resolve
+IP-CIDR6, 2408:8742:51fc:212::21/128, no-resolve
+IP-CIDR6, 2408:874c:200:32::15/128, no-resolve
+IP-CIDR6, 2408:874e:2:212:21::/128, no-resolve
+IP-CIDR6, 2408:874e:2:212:23::/128, no-resolve
+IP-CIDR6, 2408:874e:2:212:25::/128, no-resolve
+IP-CIDR6, 2408:874e:2:212:34::/128, no-resolve
+IP-CIDR6, 2408:8756:d0fb:21:20::/128, no-resolve
+IP-CIDR6, 2408:8760:b:2::15/128, no-resolve
+IP-CIDR6, 2408:8760:b:2::16/128, no-resolve
+IP-CIDR6, 2408:8760:b:7::16/128, no-resolve
+IP-CIDR6, 2408:8770:0:b4::14/128, no-resolve
+IP-CIDR6, 2408:8770:0:bb::15/128, no-resolve
+IP-CIDR6, 2408:8779:c002:103::1f/128, no-resolve
+IP-CIDR6, 2409:8924:4a04:dad:58e5:adff:fe31:e8d3/128, no-resolve
+IP-CIDR6, 2409:8924:4a1f:dc9:6064:f8ff:fe47:bd81/128, no-resolve
+IP-CIDR6, 2409:8924:546b:4ff:9871:70ed:6c3f:105a/128, no-resolve
+IP-CIDR6, 2409:8924:54b4:775:5053:7dff:fe20:2830/128, no-resolve
+IP-CIDR6, 2409:8924:54c3:1302:143b:842f:b508:c2c3/128, no-resolve
+IP-CIDR6, 2409:8924:54c3:1302:b44a:c2ba:ad28:adc3/128, no-resolve
+IP-CIDR6, 2409:8a20:5541:bcc0:55ce:91c8:714a:2a83/128, no-resolve
+IP-CIDR6, 2409:8a20:5552:a794:c74:dc29:e94:b6ef/128, no-resolve
+IP-CIDR6, 2409:8a20:5552:a794:ad69:e315:2e84:4d5f/128, no-resolve
+IP-CIDR6, 240a:42a4:8a02:36a:c80:8537:26eb:5f6/128, no-resolve
+IP-CIDR6, 240a:42a4:8a02:36a:e0a0:82df:1bab:6335/128, no-resolve
+IP-CIDR6, 240a:42a4:aa01:972:1858:163d:600c:65bd/128, no-resolve
+IP-CIDR6, 240a:42a4:aa01:972:61bc:4db:7b61:8633/128, no-resolve
+IP-CIDR6, 240a:42a4:da02:f46:bc07:daf2:40c:2532/128, no-resolve
+IP-CIDR6, 240a:42a6:da02:3a0:40d:d268:d481:daac/128, no-resolve
+IP-CIDR6, 240a:42a6:da02:3a0:ad77:792b:467e:aea9/128, no-resolve
+IP-CIDR6, 240e:400:8828:2306:10d4:68b4:3ea3:3572/128, no-resolve
+IP-CIDR6, 240e:400:8828:2306:9db7:6a43:291e:8653/128, no-resolve
+IP-CIDR6, 240e:400:8828:2306:edda:5599:165e:5ae4/128, no-resolve
+IP-CIDR6, 240e:400:8828:2306:fd3e:6f:c5da:81dd/128, no-resolve
+IP-CIDR6, 240e:478:5440:2215:fb:84d6:3e6:9248/128, no-resolve
+IP-CIDR6, 240e:478:5440:2215:d12a:ad15:b33c:d64a/128, no-resolve
+IP-CIDR6, 240e:478:54a0:1443:846:5d1f:7314:92cc/128, no-resolve
+IP-CIDR6, 240e:478:54a0:1443:b967:d7b:6fe2:5188/128, no-resolve
+IP-CIDR6, 240e:478:54a0:1443:d55c:aa1c:b308:5f8f/128, no-resolve
+IP-CIDR6, 240e:479:bc70:aa:105b:844e:123b:e553/128, no-resolve
+IP-CIDR6, 240e:479:bc70:aa:41b2:183e:fc43:fb49/128, no-resolve

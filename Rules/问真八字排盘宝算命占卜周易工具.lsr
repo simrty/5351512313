@@ -1,0 +1,8 @@
+# UpdateTime: 2026-06-28 22:51:17
+# RuleCount: 6
+DOMAIN, dypnsapi.aliyuncs.com
+DOMAIN, ocsp2.apple.com
+DOMAIN, appleid.cdn-apple.com
+DOMAIN-SUFFIX, iwzbz.com
+DOMAIN-SUFFIX, iwzwh.com
+DOMAIN-SUFFIX, umeng.com

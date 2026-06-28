@@ -1,0 +1,11 @@
+# UpdateTime: 2026-06-28 22:51:17
+# RuleCount: 9
+DOMAIN, app-analytics-services.com
+DOMAIN, yt3.ggpht.com
+DOMAIN, suggestqueries.google.com
+DOMAIN, youtubei.googleapis.com
+DOMAIN, yt3.googleusercontent.com
+DOMAIN, r1---sn-jipx4uxaxjvh-u2xs.googlevideo.com
+DOMAIN, i.ytimg.com
+DOMAIN-SUFFIX, gstatic.com
+DOMAIN-SUFFIX, youtube.com

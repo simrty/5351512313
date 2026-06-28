@@ -1,0 +1,7 @@
+# UpdateTime: 2026-06-28 22:51:17
+# RuleCount: 5
+DOMAIN, firebase-settings.crashlytics.com
+DOMAIN, avatars.githubusercontent.com
+DOMAIN-SUFFIX, github.com
+DOMAIN-SUFFIX, googleapis.com
+DOMAIN-SUFFIX, itunes.apple.com

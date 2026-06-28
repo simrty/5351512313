@@ -1,0 +1,52 @@
+# UpdateTime: 2026-06-28 22:51:17
+# RuleCount: 50
+DOMAIN, cpc-service-square.iggrowth.cn
+DOMAIN, s.tuia.cn
+DOMAIN, img1.360buyimg.com
+DOMAIN, t.adbiding.com
+DOMAIN, p66-ad.adkwai.com
+DOMAIN, rcv.aiclk.com
+DOMAIN, cdn.aiyituo.com
+DOMAIN, jt-sdk-ios.oss-cn-beijing.aliyuncs.com
+DOMAIN, ezviz-fastdfs-gateway.oss-cn-hangzhou.aliyuncs.com
+DOMAIN, inappcheck.itunes.apple.com
+DOMAIN, wn.pos.baidu.com
+DOMAIN, mobads-pre-config.cdn.bcebos.com
+DOMAIN, lf-cdn-tos.bytescm.com
+DOMAIN, toblog.ctobsnssdk.com
+DOMAIN, gdfp.gifshow.com
+DOMAIN, open.e.kuaishou.com
+DOMAIN, open.laiyagushi.com
+DOMAIN, ads-bid.leadmoad.com
+DOMAIN, license.vod2.myqcloud.com
+DOMAIN, api-access.pangolin-sdk-toutiao.com
+DOMAIN, api-access.pangolin-sdk-toutiao1.com
+DOMAIN, adtrack.qianwen.com
+DOMAIN, gdt.qq.com
+DOMAIN, sdk.e.qq.com
+DOMAIN, tdid.m.qq.com
+DOMAIN, m.so.com
+DOMAIN, httpdns.yunxindns.com
+DOMAIN, abt-online.netease.im
+DOMAIN, yumao.puata.info
+DOMAIN, statistic.live.126.net
+DOMAIN-SUFFIX, adbiding.cn
+DOMAIN-SUFFIX, bidex.cn
+DOMAIN-SUFFIX, 10010.com
+DOMAIN-SUFFIX, 1rtb.com
+DOMAIN-SUFFIX, baidu.com
+DOMAIN-SUFFIX, meituan.com
+DOMAIN-SUFFIX, pglstatp-toutiao.com
+DOMAIN-SUFFIX, sogou.com
+DOMAIN-SUFFIX, ubixioe.com
+DOMAIN-SUFFIX, umeng.com
+DOMAIN-SUFFIX, volces.com
+DOMAIN-SUFFIX, ys7.com
+DOMAIN-SUFFIX, yunxish.com
+DOMAIN-SUFFIX, 1rtb.net
+DOMAIN-SUFFIX, meituan.net
+IP-CIDR, 114.67.116.196/32, no-resolve
+IP-CIDR, 114.67.214.12/32, no-resolve
+IP-CIDR, 115.238.23.46/31, no-resolve
+IP-CIDR, 116.196.90.224/32, no-resolve
+IP-CIDR, 183.209.243.159/32, no-resolve

@@ -1,0 +1,23 @@
+# UpdateTime: 2026-06-28 22:51:17
+# RuleCount: 21
+DOMAIN, mum.alibabachengdun.com
+DOMAIN, mzstorekit.itunes.apple.com
+DOMAIN, audid-api.taobao.com
+DOMAIN, guide-acs.m.taobao.com
+DOMAIN, api-mayi.django.t.taobao.com
+DOMAIN, cdn.ynuf.aliapp.org
+DOMAIN-SUFFIX, alipay.com
+DOMAIN-SUFFIX, alipayobjects.com
+IP-CIDR, 36.150.42.219/32, no-resolve
+IP-CIDR, 36.150.42.220/32, no-resolve
+IP-CIDR, 36.150.233.222/32, no-resolve
+IP-CIDR, 36.151.61.18/32, no-resolve
+IP-CIDR, 36.156.96.243/32, no-resolve
+IP-CIDR, 111.3.79.135/32, no-resolve
+IP-CIDR, 203.209.230.39/32, no-resolve
+IP-CIDR, 203.209.243.4/32, no-resolve
+IP-CIDR, 203.209.245.158/32, no-resolve
+IP-CIDR, 223.111.123.4/32, no-resolve
+IP-CIDR6, 2400:b200:5000:b000::c8/128, no-resolve
+IP-CIDR6, 2401:b180:6001::18f/128, no-resolve
+IP-CIDR6, 2409:8c20:3c41:80:3::f/128, no-resolve

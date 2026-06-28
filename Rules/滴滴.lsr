@@ -1,0 +1,20 @@
+# UpdateTime: 2026-06-28 22:51:17
+# RuleCount: 18
+DOMAIN, api.map.diditaxi.com.cn
+DOMAIN, cacerts.digicert.cn
+DOMAIN, dypnsapi.aliyuncs.com
+DOMAIN, ca.iadsdk.apple.com
+DOMAIN, lion.didialift.com
+DOMAIN, secure.globalsign.com
+DOMAIN, eos-marketing.es.xiaojukeji.com
+DOMAIN, guard.sec.xiaojukeji.com
+DOMAIN-SUFFIX, didi.cn
+DOMAIN-SUFFIX, diditaxi.com.cn
+DOMAIN-SUFFIX, didistatic.com
+DOMAIN-SUFFIX, udache.com
+DOMAIN-SUFFIX, xiaojukeji.com
+DOMAIN-SUFFIX, map.xiaojukeji.com
+IP-CIDR, 123.207.209.142/32, no-resolve
+IP-CIDR, 203.107.6.88/32, no-resolve
+IP-CIDR6, 2407:c080:100:100::4/127, no-resolve
+IP-CIDR6, 2408:873d:1810:3::65/128, no-resolve

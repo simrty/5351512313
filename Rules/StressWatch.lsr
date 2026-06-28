@@ -1,0 +1,10 @@
+# UpdateTime: 2026-06-28 22:51:17
+# RuleCount: 8
+DOMAIN, app-analytics-services.com
+DOMAIN, ca.iadsdk.apple.com
+DOMAIN, dcj2gr.cdn-settings.appsflyersdk.com
+DOMAIN, dcj2gr.inapps.appsflyersdk.com
+DOMAIN, firebase-settings.crashlytics.com
+DOMAIN, api.ideation.love
+DOMAIN-SUFFIX, googleapis.com
+DOMAIN-SUFFIX, itunes.apple.com

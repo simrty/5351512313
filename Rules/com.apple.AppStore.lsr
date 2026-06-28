@@ -1,0 +1,9 @@
+# UpdateTime: 2026-06-28 22:51:17
+# RuleCount: 7
+DOMAIN, amp-api.media.apple.com
+DOMAIN, setup.icloud.com
+DOMAIN-SUFFIX, apple.com
+DOMAIN-SUFFIX, mzstatic.com
+DOMAIN-SUFFIX, apps.apple.com
+DOMAIN-SUFFIX, gc.apple.com
+DOMAIN-SUFFIX, itunes.apple.com

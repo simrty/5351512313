@@ -1,0 +1,7 @@
+# UpdateTime: 2026-06-28 22:51:17
+# RuleCount: 5
+DOMAIN, init.ess.apple.com
+DOMAIN, dispatcher.is.autonavi.com
+DOMAIN, gateway.icloud.com
+DOMAIN, is3.mzstatic.com
+DOMAIN-SUFFIX, apple.com

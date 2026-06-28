@@ -1,0 +1,7 @@
+# UpdateTime: 2026-06-28 22:51:17
+# RuleCount: 5
+DOMAIN, ocsp.digicert.cn
+DOMAIN, ocsp.digicert.com
+DOMAIN, s.mzstatic.com
+DOMAIN-SUFFIX, apple.com
+DOMAIN-SUFFIX, itunes.apple.com

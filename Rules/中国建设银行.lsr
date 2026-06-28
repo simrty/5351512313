@@ -1,0 +1,9 @@
+# UpdateTime: 2026-06-28 22:51:17
+# RuleCount: 7
+DOMAIN, xc.mobile3.ccb.cn
+DOMAIN, ocsp.digicert.cn
+DOMAIN, dvfp.ftss.ccb.com
+DOMAIN, mb1.mp.ccb.com
+DOMAIN, res.yunbusiness.ccb.com
+DOMAIN-SUFFIX, baidu.com
+DOMAIN-SUFFIX, ccb.com

@@ -1,0 +1,6 @@
+# UpdateTime: 2026-06-28 22:51:17
+# RuleCount: 4
+DOMAIN, app-analytics-services.com
+DOMAIN, clients2.google.com
+DOMAIN-SUFFIX, googleapis.com
+DOMAIN-SUFFIX, itunes.apple.com

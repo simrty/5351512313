@@ -1,0 +1,11 @@
+# UpdateTime: 2026-06-28 22:51:17
+# RuleCount: 9
+DOMAIN, caiyunapp.com
+DOMAIN, amp-api-edge.apps.apple.com
+DOMAIN, inappcheck.itunes.apple.com
+DOMAIN, cdn-w.caiyunapp.com
+DOMAIN, meteorology.caiyuncdn.com
+DOMAIN, gather.colorfulclouds.net
+DOMAIN-SUFFIX, cyapi.cn
+DOMAIN-SUFFIX, amap.com
+DOMAIN-SUFFIX, umeng.com

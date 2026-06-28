@@ -1,0 +1,5 @@
+# UpdateTime: 2026-06-28 22:51:17
+# RuleCount: 3
+DOMAIN, stocks-data-service.apple.com
+DOMAIN, c.apple.news
+DOMAIN-SUFFIX, itunes.apple.com

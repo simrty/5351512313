@@ -1,0 +1,5 @@
+# UpdateTime: 2026-06-28 22:51:17
+# RuleCount: 3
+DOMAIN, dispatcher.is.autonavi.com
+DOMAIN, ocsp.digicert.com
+DOMAIN-SUFFIX, apple.com

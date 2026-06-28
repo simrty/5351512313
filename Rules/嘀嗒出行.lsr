@@ -1,0 +1,45 @@
+# UpdateTime: 2026-06-28 22:51:17
+# RuleCount: 43
+DOMAIN, sdktmp.hubcloud.com.cn
+DOMAIN, creative.mergex.cn
+DOMAIN, mobads-pre-config.cdn.bcebos.com
+DOMAIN, toblog.ctobsnssdk.com
+DOMAIN, ads.cxwlad.com
+DOMAIN, web-static.didachuxing.com
+DOMAIN, ocsp.digicert.com
+DOMAIN, webcast-open.douyin.com
+DOMAIN, fp-it.fengkongcloud.com
+DOMAIN, style40cdn.map.gtimg.com
+DOMAIN, impdsp.meituan.com
+DOMAIN, wecar.myapp.com
+DOMAIN, api-access.pangolin-sdk-toutiao1.com
+DOMAIN, ap2.qiyukf.com
+DOMAIN, sdk.e.qq.com
+DOMAIN, mazu.m.qq.com
+DOMAIN, ue.indoorloc.map.qq.com
+DOMAIN, oth.eve.mdt.qq.com
+DOMAIN, oth.str.mdt.qq.com
+DOMAIN, h.trace.qq.com
+DOMAIN, status.rapidssl.com
+DOMAIN, vod-license-m.volccdn.com
+DOMAIN, httpdns.yunxindns.com
+DOMAIN, lbs.netease.im
+DOMAIN, statistic.live.126.net
+DOMAIN, s3plus.meituan.net
+DOMAIN-SUFFIX, beizi.biz
+DOMAIN-SUFFIX, 10010.com
+DOMAIN-SUFFIX, 1rtb.com
+DOMAIN-SUFFIX, baidu.com
+DOMAIN-SUFFIX, didapinche.com
+DOMAIN-SUFFIX, pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX, pglstatp-toutiao.com
+DOMAIN-SUFFIX, qq.com
+DOMAIN-SUFFIX, ugdtimg.com
+DOMAIN-SUFFIX, umeng.com
+DOMAIN-SUFFIX, volces.com
+DOMAIN-SUFFIX, yunxish.com
+DOMAIN-SUFFIX, zijieapi.com
+DOMAIN-SUFFIX, map.qq.com
+DOMAIN-SUFFIX, 1rtb.net
+IP-CIDR, 119.29.29.88/32, no-resolve
+IP-CIDR, 119.29.29.90/32, no-resolve

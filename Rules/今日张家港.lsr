@@ -1,0 +1,19 @@
+# UpdateTime: 2026-06-28 22:51:17
+# RuleCount: 17
+DOMAIN, mp.aihomebase.cloud
+DOMAIN, yw.wosms.cn
+DOMAIN, map.baidu.com
+DOMAIN, statistic.cm.jstv.com
+DOMAIN, d.mob.com
+DOMAIN, api.applink.mob.com
+DOMAIN, devs.data.mob.com
+DOMAIN, api.share.mob.com
+DOMAIN, bugly.qq.com
+DOMAIN-SUFFIX, jpush.cn
+DOMAIN-SUFFIX, zjgonline.com.cn
+DOMAIN-SUFFIX, 10010.com
+DOMAIN-SUFFIX, cmpassport.com
+DOMAIN-SUFFIX, umeng.com
+DOMAIN-SUFFIX, gm.mob.com
+IP-CIDR, 1.92.70.140/32, no-resolve
+IP-CIDR, 1.94.190.95/32, no-resolve
